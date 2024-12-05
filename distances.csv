@@ -1,0 +1,841 @@
+"Miami, FL","Miami, FL",2
+"Miami, FL","Boston, MA",1489
+"Miami, FL","Los Angles, CA",2732
+"Miami, FL","New York, NY",1276
+"Miami, FL","San Francisco, CA",3042
+"Miami, FL","Atlanta, GA",663
+"Miami, FL","Brooklyn, NY",1280
+"Miami, FL","Charlotte, NC",729
+"Miami, FL","Chicago, IL",1382
+"Miami, FL","Cleveland, OH",1242
+"Miami, FL","Dallas, TX",1314
+"Miami, FL","Denver, CO",2065
+"Miami, FL","Detroit, MI",1385
+"Miami, FL","Houston, TX",1187
+"Miami, FL","Indianapolis, IN",1197
+"Miami, FL","Memphis, TN",1053
+"Miami, FL","Oklahoma City, OK",1519
+"Miami, FL","Milwaukee, WI",1473
+"Miami, FL","Minneapolis, MN",1792
+"Miami, FL","New Orleans, LA",865
+"Miami, FL","Orlando, FL",235
+"Miami, FL","Philadelphia, PA",1190
+"Miami, FL","Phoenix, AZ",2360
+"Miami, FL","Portland, OR",3262
+"Miami, FL","Sacramento, CA",3037
+"Miami, FL","San Antonio, TX",1382
+"Miami, FL","Toronto, Ontario",1484
+"Miami, FL","Salt Lake City, UT",2539
+"Miami, FL","Washington, D.C",1051
+"Boston, MA","Miami, FL",1492
+"Boston, MA","Boston, MA",2
+"Boston, MA","Los Angles, CA",2983
+"Boston, MA","New York, NY",215
+"Boston, MA","San Francisco, CA",3123
+"Boston, MA","Atlanta, GA",1079
+"Boston, MA","Brooklyn, NY",215
+"Boston, MA","Charlotte, NC",840
+"Boston, MA","Chicago, IL",983
+"Boston, MA","Cleveland, OH",639
+"Boston, MA","Dallas, TX",1768
+"Boston, MA","Denver, CO",1969
+"Boston, MA","Detroit, MI",707
+"Boston, MA","Houston, TX",1847
+"Boston, MA","Indianapolis, IN",949
+"Boston, MA","Memphis, TN",1316
+"Boston, MA","Oklahoma City, OK",1688
+"Boston, MA","Milwaukee, WI",1073
+"Boston, MA","Minneapolis, MN",1390
+"Boston, MA","New Orleans, LA",1525
+"Boston, MA","Orlando, FL",1287
+"Boston, MA","Philadelphia, PA",307
+"Boston, MA","Phoenix, AZ",2648
+"Boston, MA","Portland, OR",3088
+"Boston, MA","Sacramento, CA",3037
+"Boston, MA","San Antonio, TX",2042
+"Boston, MA","Toronto, Ontario",550
+"Boston, MA","Salt Lake City, UT",2364
+"Boston, MA","Washington, D.C",439
+"Los Angles, CA","Miami, FL",2733
+"Los Angles, CA","Boston, MA",2983
+"Los Angles, CA","Los Angles, CA",2
+"Los Angles, CA","New York, NY",2776
+"Los Angles, CA","San Francisco, CA",382
+"Los Angles, CA","Atlanta, GA",2174
+"Los Angles, CA","Brooklyn, NY",2797
+"Los Angles, CA","Charlotte, NC",2412
+"Los Angles, CA","Chicago, IL",2015
+"Los Angles, CA","Cleveland, OH",2344
+"Los Angles, CA","Dallas, TX",1436
+"Los Angles, CA","Denver, CO",1016
+"Los Angles, CA","Detroit, MI",2281
+"Los Angles, CA","Houston, TX",1547
+"Los Angles, CA","Indianapolis, IN",2066
+"Los Angles, CA","Memphis, TN",1792
+"Los Angles, CA","Oklahoma City, OK",1327
+"Los Angles, CA","Milwaukee, WI",2057
+"Los Angles, CA","Minneapolis, MN",1925
+"Los Angles, CA","New Orleans, LA",1893
+"Los Angles, CA","Orlando, FL",2509
+"Los Angles, CA","Philadelphia, PA",2709
+"Los Angles, CA","Phoenix, AZ",373
+"Los Angles, CA","Portland, OR",962
+"Los Angles, CA","Sacramento, CA",384
+"Los Angles, CA","San Antonio, TX",1352
+"Los Angles, CA","Toronto, Ontario",2519
+"Los Angles, CA","Salt Lake City, UT",688
+"Los Angles, CA","Washington, D.C",2668
+"New York, NY","Miami, FL",1279
+"New York, NY","Boston, MA",215
+"New York, NY","Los Angles, CA",2775
+"New York, NY","New York, NY",2
+"New York, NY","San Francisco, CA",2930
+"New York, NY","Atlanta, GA",868
+"New York, NY","Brooklyn, NY",5
+"New York, NY","Charlotte, NC",627
+"New York, NY","Chicago, IL",790
+"New York, NY","Cleveland, OH",461
+"New York, NY","Dallas, TX",1547
+"New York, NY","Denver, CO",1776
+"New York, NY","Detroit, MI",614
+"New York, NY","Houston, TX",1627
+"New York, NY","Indianapolis, IN",708
+"New York, NY","Memphis, TN",1095
+"New York, NY","Oklahoma City, OK",1447
+"New York, NY","Milwaukee, WI",880
+"New York, NY","Minneapolis, MN",1197
+"New York, NY","New Orleans, LA",1305
+"New York, NY","Orlando, FL",1074
+"New York, NY","Philadelphia, PA",94
+"New York, NY","Phoenix, AZ",2406
+"New York, NY","Portland, OR",2894
+"New York, NY","Sacramento, CA",2844
+"New York, NY","San Antonio, TX",1822
+"New York, NY","Toronto, Ontario",490
+"New York, NY","Salt Lake City, UT",2171
+"New York, NY","Washington, D.C",226
+"San Francisco, CA","Miami, FL",3043
+"San Francisco, CA","Boston, MA",3127
+"San Francisco, CA","Los Angles, CA",383
+"San Francisco, CA","New York, NY",2934
+"San Francisco, CA","San Francisco, CA",2
+"San Francisco, CA","Atlanta, GA",2474
+"San Francisco, CA","Brooklyn, NY",2938
+"San Francisco, CA","Charlotte, NC",2712
+"San Francisco, CA","Chicago, IL",2160
+"San Francisco, CA","Cleveland, OH",2489
+"San Francisco, CA","Dallas, TX",1734
+"San Francisco, CA","Denver, CO",1206
+"San Francisco, CA","Detroit, MI",2425
+"San Francisco, CA","Houston, TX",1927
+"San Francisco, CA","Indianapolis, IN",2286
+"San Francisco, CA","Memphis, TN",2092
+"San Francisco, CA","Oklahoma City, OK",1627
+"San Francisco, CA","Milwaukee, WI",2201
+"San Francisco, CA","Minneapolis, MN",2005
+"San Francisco, CA","New Orleans, LA",2223
+"San Francisco, CA","Orlando, FL",2820
+"San Francisco, CA","Philadelphia, PA",2903
+"San Francisco, CA","Phoenix, AZ",753
+"San Francisco, CA","Portland, OR",635
+"San Francisco, CA","Sacramento, CA",87
+"San Francisco, CA","San Antonio, TX",1732
+"San Francisco, CA","Toronto, Ontario",2663
+"San Francisco, CA","Salt Lake City, UT",764
+"San Francisco, CA","Washington, D.C",2845
+"Atlanta, GA","Miami, FL",663
+"Atlanta, GA","Boston, MA",1076
+"Atlanta, GA","Los Angles, CA",2184
+"Atlanta, GA","New York, NY",863
+"Atlanta, GA","San Francisco, CA",2482
+"Atlanta, GA","Atlanta, GA",2
+"Atlanta, GA","Brooklyn, NY",867
+"Atlanta, GA","Charlotte, NC",245
+"Atlanta, GA","Chicago, IL",720
+"Atlanta, GA","Cleveland, OH",710
+"Atlanta, GA","Dallas, TX",781
+"Atlanta, GA","Denver, CO",1402
+"Atlanta, GA","Detroit, MI",722
+"Atlanta, GA","Houston, TX",793
+"Atlanta, GA","Indianapolis, IN",534
+"Atlanta, GA","Memphis, TN",391
+"Atlanta, GA","Oklahoma City, OK",857
+"Atlanta, GA","Milwaukee, WI",810
+"Atlanta, GA","Minneapolis, MN",1130
+"Atlanta, GA","New Orleans, LA",470
+"Atlanta, GA","Orlando, FL",439
+"Atlanta, GA","Philadelphia, PA",777
+"Atlanta, GA","Phoenix, AZ",1815
+"Atlanta, GA","Portland, OR",2600
+"Atlanta, GA","Sacramento, CA",2476
+"Atlanta, GA","San Antonio, TX",988
+"Atlanta, GA","Toronto, Ontario",951
+"Atlanta, GA","Salt Lake City, UT",1876
+"Atlanta, GA","Washington, D.C",638
+"Brooklyn, NY","Miami, FL",1282
+"Brooklyn, NY","Boston, MA",216
+"Brooklyn, NY","Los Angles, CA",2797
+"Brooklyn, NY","New York, NY",5
+"Brooklyn, NY","San Francisco, CA",2934
+"Brooklyn, NY","Atlanta, GA",871
+"Brooklyn, NY","Brooklyn, NY",2
+"Brooklyn, NY","Charlotte, NC",630
+"Brooklyn, NY","Chicago, IL",794
+"Brooklyn, NY","Cleveland, OH",466
+"Brooklyn, NY","Dallas, TX",1557
+"Brooklyn, NY","Denver, CO",1780
+"Brooklyn, NY","Detroit, MI",618
+"Brooklyn, NY","Houston, TX",1637
+"Brooklyn, NY","Indianapolis, IN",730
+"Brooklyn, NY","Memphis, TN",1105
+"Brooklyn, NY","Oklahoma City, OK",1469
+"Brooklyn, NY","Milwaukee, WI",884
+"Brooklyn, NY","Minneapolis, MN",1201
+"Brooklyn, NY","New Orleans, LA",1315
+"Brooklyn, NY","Orlando, FL",1077
+"Brooklyn, NY","Philadelphia, PA",97
+"Brooklyn, NY","Phoenix, AZ",2429
+"Brooklyn, NY","Portland, OR",2899
+"Brooklyn, NY","Sacramento, CA",2848
+"Brooklyn, NY","San Antonio, TX",1832
+"Brooklyn, NY","Toronto, Ontario",495
+"Brooklyn, NY","Salt Lake City, UT",2175
+"Brooklyn, NY","Washington, D.C",229
+"Charlotte, NC","Miami, FL",729
+"Charlotte, NC","Boston, MA",836
+"Charlotte, NC","Los Angles, CA",2412
+"Charlotte, NC","New York, NY",623
+"Charlotte, NC","San Francisco, CA",2710
+"Charlotte, NC","Atlanta, GA",244
+"Charlotte, NC","Brooklyn, NY",628
+"Charlotte, NC","Charlotte, NC",2
+"Charlotte, NC","Chicago, IL",755
+"Charlotte, NC","Cleveland, OH",515
+"Charlotte, NC","Dallas, TX",1025
+"Charlotte, NC","Denver, CO",1561
+"Charlotte, NC","Detroit, MI",629
+"Charlotte, NC","Houston, TX",1038
+"Charlotte, NC","Indianapolis, IN",574
+"Charlotte, NC","Memphis, TN",619
+"Charlotte, NC","Oklahoma City, OK",1084
+"Charlotte, NC","Milwaukee, WI",845
+"Charlotte, NC","Minneapolis, MN",1162
+"Charlotte, NC","New Orleans, LA",714
+"Charlotte, NC","Orlando, FL",525
+"Charlotte, NC","Philadelphia, PA",538
+"Charlotte, NC","Phoenix, AZ",2043
+"Charlotte, NC","Portland, OR",2759
+"Charlotte, NC","Sacramento, CA",2704
+"Charlotte, NC","San Antonio, TX",1232
+"Charlotte, NC","Toronto, Ontario",758
+"Charlotte, NC","Salt Lake City, UT",2035
+"Charlotte, NC","Washington, D.C",399
+"Chicago, IL","Miami, FL",1381
+"Chicago, IL","Boston, MA",984
+"Chicago, IL","Los Angles, CA",2015
+"Chicago, IL","New York, NY",790
+"Chicago, IL","San Francisco, CA",2155
+"Chicago, IL","Atlanta, GA",719
+"Chicago, IL","Brooklyn, NY",794
+"Chicago, IL","Charlotte, NC",755
+"Chicago, IL","Chicago, IL",2
+"Chicago, IL","Cleveland, OH",345
+"Chicago, IL","Dallas, TX",926
+"Chicago, IL","Denver, CO",1002
+"Chicago, IL","Detroit, MI",283
+"Chicago, IL","Houston, TX",1083
+"Chicago, IL","Indianapolis, IN",183
+"Chicago, IL","Memphis, TN",533
+"Chicago, IL","Oklahoma City, OK",794
+"Chicago, IL","Milwaukee, WI",92
+"Chicago, IL","Minneapolis, MN",409
+"Chicago, IL","New Orleans, LA",926
+"Chicago, IL","Orlando, FL",1157
+"Chicago, IL","Philadelphia, PA",759
+"Chicago, IL","Phoenix, AZ",1753
+"Chicago, IL","Portland, OR",2120
+"Chicago, IL","Sacramento, CA",2070
+"Chicago, IL","San Antonio, TX",1199
+"Chicago, IL","Toronto, Ontario",521
+"Chicago, IL","Salt Lake City, UT",1397
+"Chicago, IL","Washington, D.C",701
+"Cleveland, OH","Miami, FL",1242
+"Cleveland, OH","Boston, MA",640
+"Cleveland, OH","Los Angles, CA",2344
+"Cleveland, OH","New York, NY",463
+"Cleveland, OH","San Francisco, CA",2484
+"Cleveland, OH","Atlanta, GA",709
+"Cleveland, OH","Brooklyn, NY",467
+"Cleveland, OH","Charlotte, NC",514
+"Cleveland, OH","Chicago, IL",344
+"Cleveland, OH","Cleveland, OH",2
+"Cleveland, OH","Dallas, TX",1183
+"Cleveland, OH","Denver, CO",1330
+"Cleveland, OH","Detroit, MI",169
+"Cleveland, OH","Houston, TX",1297
+"Cleveland, OH","Indianapolis, IN",315
+"Cleveland, OH","Memphis, TN",731
+"Cleveland, OH","Oklahoma City, OK",1055
+"Cleveland, OH","Milwaukee, WI",434
+"Cleveland, OH","Minneapolis, MN",751
+"Cleveland, OH","New Orleans, LA",1054
+"Cleveland, OH","Orlando, FL",1037
+"Cleveland, OH","Philadelphia, PA",432
+"Cleveland, OH","Phoenix, AZ",2014
+"Cleveland, OH","Portland, OR",2449
+"Cleveland, OH","Sacramento, CA",2399
+"Cleveland, OH","San Antonio, TX",1456
+"Cleveland, OH","Toronto, Ontario",292
+"Cleveland, OH","Salt Lake City, UT",1725
+"Cleveland, OH","Washington, D.C",374
+"Dallas, TX","Miami, FL",1313
+"Dallas, TX","Boston, MA",1761
+"Dallas, TX","Los Angles, CA",1436
+"Dallas, TX","New York, NY",1548
+"Dallas, TX","San Francisco, CA",1732
+"Dallas, TX","Atlanta, GA",781
+"Dallas, TX","Brooklyn, NY",1557
+"Dallas, TX","Charlotte, NC",1026
+"Dallas, TX","Chicago, IL",968
+"Dallas, TX","Cleveland, OH",1182
+"Dallas, TX","Dallas, TX",2
+"Dallas, TX","Denver, CO",793
+"Dallas, TX","Detroit, MI",1185
+"Dallas, TX","Houston, TX",239
+"Dallas, TX","Indianapolis, IN",899
+"Dallas, TX","Memphis, TN",452
+"Dallas, TX","Oklahoma City, OK",206
+"Dallas, TX","Milwaukee, WI",1003
+"Dallas, TX","Minneapolis, MN",991
+"Dallas, TX","New Orleans, LA",492
+"Dallas, TX","Orlando, FL",1089
+"Dallas, TX","Philadelphia, PA",1467
+"Dallas, TX","Phoenix, AZ",#ERROR!
+"Dallas, TX","Portland, OR",2032
+"Dallas, TX","Sacramento, CA",1726
+"Dallas, TX","San Antonio, TX",274
+"Dallas, TX","Toronto, Ontario",1414
+"Dallas, TX","Salt Lake City, UT",1242
+"Dallas, TX","Washington, D.C",1328
+"Denver, CO","Miami, FL",2065
+"Denver, CO","Boston, MA",1972
+"Denver, CO","Los Angles, CA",1017
+"Denver, CO","New York, NY",1778
+"Denver, CO","San Francisco, CA",1206
+"Denver, CO","Atlanta, GA",1402
+"Denver, CO","Brooklyn, NY",1783
+"Denver, CO","Charlotte, NC",1564
+"Denver, CO","Chicago, IL",1005
+"Denver, CO","Cleveland, OH",1334
+"Denver, CO","Dallas, TX",794
+"Denver, CO","Denver, CO",2
+"Denver, CO","Detroit, MI",1270
+"Denver, CO","Houston, TX",1028
+"Denver, CO","Indianapolis, IN",1085
+"Denver, CO","Memphis, TN",1095
+"Denver, CO","Oklahoma City, OK",679
+"Denver, CO","Milwaukee, WI",1046
+"Denver, CO","Minneapolis, MN",914
+"Denver, CO","New Orleans, LA",1283
+"Denver, CO","Orlando, FL",1841
+"Denver, CO","Philadelphia, PA",1728
+"Denver, CO","Phoenix, AZ",864
+"Denver, CO","Portland, OR",1242
+"Denver, CO","Sacramento, CA",1121
+"Denver, CO","San Antonio, TX",931
+"Denver, CO","Toronto, Ontario",1508
+"Denver, CO","Salt Lake City, UT",519
+"Denver, CO","Washington, D.C",1662
+"Detroit, MI","Miami, FL",1385
+"Detroit, MI","Boston, MA",707
+"Detroit, MI","Los Angles, CA",2281
+"Detroit, MI","New York, NY",614
+"Detroit, MI","San Francisco, CA",2422
+"Detroit, MI","Atlanta, GA",722
+"Detroit, MI","Brooklyn, NY",619
+"Detroit, MI","Charlotte, NC",625
+"Detroit, MI","Chicago, IL",283
+"Detroit, MI","Cleveland, OH",170
+"Detroit, MI","Dallas, TX",1187
+"Detroit, MI","Denver, CO",1268
+"Detroit, MI","Detroit, MI",2
+"Detroit, MI","Houston, TX",1302
+"Detroit, MI","Indianapolis, IN",287
+"Detroit, MI","Memphis, TN",744
+"Detroit, MI","Oklahoma City, OK",1027
+"Detroit, MI","Milwaukee, WI",373
+"Detroit, MI","Minneapolis, MN",690
+"Detroit, MI","New Orleans, LA",1068
+"Detroit, MI","Orlando, FL",1161
+"Detroit, MI","Philadelphia, PA",584
+"Detroit, MI","Phoenix, AZ",1986
+"Detroit, MI","Portland, OR",2387
+"Detroit, MI","Sacramento, CA",2336
+"Detroit, MI","San Antonio, TX",1460
+"Detroit, MI","Toronto, Ontario",231
+"Detroit, MI","Salt Lake City, UT",1663
+"Detroit, MI","Washington, D.C",526
+"Houston, TX","Miami, FL",1187
+"Houston, TX","Boston, MA",1841
+"Houston, TX","Los Angles, CA",1546
+"Houston, TX","New York, NY",1628
+"Houston, TX","San Francisco, CA",1927
+"Houston, TX","Atlanta, GA",793
+"Houston, TX","Brooklyn, NY",1637
+"Houston, TX","Charlotte, NC",1039
+"Houston, TX","Chicago, IL",1083
+"Houston, TX","Cleveland, OH",1297
+"Houston, TX","Dallas, TX",239
+"Houston, TX","Denver, CO",1027
+"Houston, TX","Detroit, MI",1300
+"Houston, TX","Houston, TX",2
+"Houston, TX","Indianapolis, IN",1014
+"Houston, TX","Memphis, TN",567
+"Houston, TX","Oklahoma City, OK",445
+"Houston, TX","Milwaukee, WI",1151
+"Houston, TX","Minneapolis, MN",1178
+"Houston, TX","New Orleans, LA",348
+"Houston, TX","Orlando, FL",963
+"Houston, TX","Philadelphia, PA",1547
+"Houston, TX","Phoenix, AZ",1174
+"Houston, TX","Portland, OR",2267
+"Houston, TX","Sacramento, CA",1929
+"Houston, TX","San Antonio, TX",197
+"Houston, TX","Toronto, Ontario",1529
+"Houston, TX","Salt Lake City, UT",1477
+"Houston, TX","Washington, D.C",1408
+"Indianapolis, IN","Miami, FL",1195
+"Indianapolis, IN","Boston, MA",950
+"Indianapolis, IN","Los Angles, CA",2068
+"Indianapolis, IN","New York, NY",710
+"Indianapolis, IN","San Francisco, CA",2283
+"Indianapolis, IN","Atlanta, GA",533
+"Indianapolis, IN","Brooklyn, NY",731
+"Indianapolis, IN","Charlotte, NC",574
+"Indianapolis, IN","Chicago, IL",183
+"Indianapolis, IN","Cleveland, OH",317
+"Indianapolis, IN","Dallas, TX",900
+"Indianapolis, IN","Denver, CO",1083
+"Indianapolis, IN","Detroit, MI",286
+"Indianapolis, IN","Houston, TX",1014
+"Indianapolis, IN","Indianapolis, IN",2
+"Indianapolis, IN","Memphis, TN",464
+"Indianapolis, IN","Oklahoma City, OK",740
+"Indianapolis, IN","Milwaukee, WI",273
+"Indianapolis, IN","Minneapolis, MN",590
+"Indianapolis, IN","New Orleans, LA",821
+"Indianapolis, IN","Orlando, FL",971
+"Indianapolis, IN","Philadelphia, PA",643
+"Indianapolis, IN","Phoenix, AZ",1699
+"Indianapolis, IN","Portland, OR",2248
+"Indianapolis, IN","Sacramento, CA",2198
+"Indianapolis, IN","San Antonio, TX",1173
+"Indianapolis, IN","Toronto, Ontario",515
+"Indianapolis, IN","Salt Lake City, UT",1525
+"Indianapolis, IN","Washington, D.C",577
+"Memphis, TN","Miami, FL",1052
+"Memphis, TN","Boston, MA",1309
+"Memphis, TN","Los Angles, CA",1793
+"Memphis, TN","New York, NY",1096
+"Memphis, TN","San Francisco, CA",2091
+"Memphis, TN","Atlanta, GA",391
+"Memphis, TN","Brooklyn, NY",1105
+"Memphis, TN","Charlotte, NC",620
+"Memphis, TN","Chicago, IL",533
+"Memphis, TN","Cleveland, OH",730
+"Memphis, TN","Dallas, TX",453
+"Memphis, TN","Denver, CO",1094
+"Memphis, TN","Detroit, MI",742
+"Memphis, TN","Houston, TX",568
+"Memphis, TN","Indianapolis, IN",464
+"Memphis, TN","Memphis, TN",2
+"Memphis, TN","Oklahoma City, OK",466
+"Memphis, TN","Milwaukee, WI",622
+"Memphis, TN","Minneapolis, MN",828
+"Memphis, TN","New Orleans, LA",395
+"Memphis, TN","Orlando, FL",829
+"Memphis, TN","Philadelphia, PA",1015
+"Memphis, TN","Phoenix, AZ",1424
+"Memphis, TN","Portland, OR",2250
+"Memphis, TN","Sacramento, CA",2085
+"Memphis, TN","San Antonio, TX",726
+"Memphis, TN","Toronto, Ontario",971
+"Memphis, TN","Salt Lake City, UT",1527
+"Memphis, TN","Washington, D.C",876
+"Oklahoma City, OK","Miami, FL",1509
+"Oklahoma City, OK","Boston, MA",1690
+"Oklahoma City, OK","Los Angles, CA",1328
+"Oklahoma City, OK","New York, NY",1450
+"Oklahoma City, OK","San Francisco, CA",1627
+"Oklahoma City, OK","Atlanta, GA",848
+"Oklahoma City, OK","Brooklyn, NY",1471
+"Oklahoma City, OK","Charlotte, NC",1086
+"Oklahoma City, OK","Chicago, IL",794
+"Oklahoma City, OK","Cleveland, OH",1056
+"Oklahoma City, OK","Dallas, TX",207
+"Oklahoma City, OK","Denver, CO",678
+"Oklahoma City, OK","Detroit, MI",1026
+"Oklahoma City, OK","Houston, TX",445
+"Oklahoma City, OK","Indianapolis, IN",740
+"Oklahoma City, OK","Memphis, TN",466
+"Oklahoma City, OK","Oklahoma City, OK",2
+"Oklahoma City, OK","Milwaukee, WI",870
+"Oklahoma City, OK","Minneapolis, MN",788
+"Oklahoma City, OK","New Orleans, LA",696
+"Oklahoma City, OK","Orlando, FL",1285
+"Oklahoma City, OK","Philadelphia, PA",1383
+"Oklahoma City, OK","Phoenix, AZ",960
+"Oklahoma City, OK","Portland, OR",1909
+"Oklahoma City, OK","Sacramento, CA",1621
+"Oklahoma City, OK","San Antonio, TX",467
+"Oklahoma City, OK","Toronto, Ontario",1255
+"Oklahoma City, OK","Salt Lake City, UT",1185
+"Oklahoma City, OK","Washington, D.C",1342
+"Milwaukee, WI","Miami, FL",1477
+"Milwaukee, WI","Boston, MA",1074
+"Milwaukee, WI","Los Angles, CA",2056
+"Milwaukee, WI","New York, NY",880
+"Milwaukee, WI","San Francisco, CA",2196
+"Milwaukee, WI","Atlanta, GA",815
+"Milwaukee, WI","Brooklyn, NY",885
+"Milwaukee, WI","Charlotte, NC",851
+"Milwaukee, WI","Chicago, IL",93
+"Milwaukee, WI","Cleveland, OH",436
+"Milwaukee, WI","Dallas, TX",1002
+"Milwaukee, WI","Denver, CO",1042
+"Milwaukee, WI","Detroit, MI",373
+"Milwaukee, WI","Houston, TX",1149
+"Milwaukee, WI","Indianapolis, IN",279
+"Milwaukee, WI","Memphis, TN",622
+"Milwaukee, WI","Oklahoma City, OK",870
+"Milwaukee, WI","Milwaukee, WI",2
+"Milwaukee, WI","Minneapolis, MN",337
+"Milwaukee, WI","New Orleans, LA",1015
+"Milwaukee, WI","Orlando, FL",1253
+"Milwaukee, WI","Philadelphia, PA",850
+"Milwaukee, WI","Phoenix, AZ",1829
+"Milwaukee, WI","Portland, OR",2066
+"Milwaukee, WI","Sacramento, CA",2110
+"Milwaukee, WI","San Antonio, TX",1275
+"Milwaukee, WI","Toronto, Ontario",611
+"Milwaukee, WI","Salt Lake City, UT",1437
+"Milwaukee, WI","Washington, D.C",792
+"Minneapolis, MN","Miami, FL",1789
+"Minneapolis, MN","Boston, MA",1390
+"Minneapolis, MN","Los Angles, CA",1926
+"Minneapolis, MN","New York, NY",1196
+"Minneapolis, MN","San Francisco, CA",2001
+"Minneapolis, MN","Atlanta, GA",1127
+"Minneapolis, MN","Brooklyn, NY",1200
+"Minneapolis, MN","Charlotte, NC",1163
+"Minneapolis, MN","Chicago, IL",408
+"Minneapolis, MN","Cleveland, OH",751
+"Minneapolis, MN","Dallas, TX",939
+"Minneapolis, MN","Denver, CO",913
+"Minneapolis, MN","Detroit, MI",693
+"Minneapolis, MN","Houston, TX",1176
+"Minneapolis, MN","Indianapolis, IN",591
+"Minneapolis, MN","Memphis, TN",828
+"Minneapolis, MN","Oklahoma City, OK",787
+"Minneapolis, MN","Milwaukee, WI",337
+"Minneapolis, MN","Minneapolis, MN",2
+"Minneapolis, MN","New Orleans, LA",1221
+"Minneapolis, MN","Orlando, FL",1565
+"Minneapolis, MN","Philadelphia, PA",1165
+"Minneapolis, MN","Phoenix, AZ",1642
+"Minneapolis, MN","Portland, OR",1731
+"Minneapolis, MN","Sacramento, CA",1916
+"Minneapolis, MN","San Antonio, TX",1251
+"Minneapolis, MN","Toronto, Ontario",932
+"Minneapolis, MN","Salt Lake City, UT",1243
+"Minneapolis, MN","Washington, D.C",1108
+"New Orleans, LA","Miami, FL",863
+"New Orleans, LA","Boston, MA",1517
+"New Orleans, LA","Los Angles, CA",1892
+"New Orleans, LA","New York, NY",1304
+"New Orleans, LA","San Francisco, CA",2221
+"New Orleans, LA","Atlanta, GA",469
+"New Orleans, LA","Brooklyn, NY",1313
+"New Orleans, LA","Charlotte, NC",715
+"New Orleans, LA","Chicago, IL",927
+"New Orleans, LA","Cleveland, OH",1052
+"New Orleans, LA","Dallas, TX",493
+"New Orleans, LA","Denver, CO",1282
+"New Orleans, LA","Detroit, MI",1064
+"New Orleans, LA","Houston, TX",348
+"New Orleans, LA","Indianapolis, IN",819
+"New Orleans, LA","Memphis, TN",395
+"New Orleans, LA","Oklahoma City, OK",695
+"New Orleans, LA","Milwaukee, WI",1016
+"New Orleans, LA","Minneapolis, MN",1223
+"New Orleans, LA","New Orleans, LA",2
+"New Orleans, LA","Orlando, FL",639
+"New Orleans, LA","Philadelphia, PA",1223
+"New Orleans, LA","Phoenix, AZ",1520
+"New Orleans, LA","Portland, OR",2522
+"New Orleans, LA","Sacramento, CA",2215
+"New Orleans, LA","San Antonio, TX",543
+"New Orleans, LA","Toronto, Ontario",1294
+"New Orleans, LA","Salt Lake City, UT",1732
+"New Orleans, LA","Washington, D.C",#ERROR!
+"Orlando, FL","Miami, FL",235
+"Orlando, FL","Boston, MA",1283
+"Orlando, FL","Los Angles, CA",2507
+"Orlando, FL","New York, NY",1071
+"Orlando, FL","San Francisco, CA",2818
+"Orlando, FL","Atlanta, GA",438
+"Orlando, FL","Brooklyn, NY",1075
+"Orlando, FL","Charlotte, NC",524
+"Orlando, FL","Chicago, IL",1158
+"Orlando, FL","Cleveland, OH",1037
+"Orlando, FL","Dallas, TX",1089
+"Orlando, FL","Denver, CO",1840
+"Orlando, FL","Detroit, MI",1160
+"Orlando, FL","Houston, TX",963
+"Orlando, FL","Indianapolis, IN",972
+"Orlando, FL","Memphis, TN",828
+"Orlando, FL","Oklahoma City, OK",1294
+"Orlando, FL","Milwaukee, WI",1248
+"Orlando, FL","Minneapolis, MN",1568
+"Orlando, FL","New Orleans, LA",640
+"Orlando, FL","Orlando, FL",2
+"Orlando, FL","Philadelphia, PA",985
+"Orlando, FL","Phoenix, AZ",2135
+"Orlando, FL","Portland, OR",3037
+"Orlando, FL","Sacramento, CA",2812
+"Orlando, FL","San Antonio, TX",1158
+"Orlando, FL","Toronto, Ontario",1279
+"Orlando, FL","Salt Lake City, UT",2314
+"Orlando, FL","Washington, D.C",846
+"Philadelphia, PA","Miami, FL",1192
+"Philadelphia, PA","Boston, MA",307
+"Philadelphia, PA","Los Angles, CA",2711
+"Philadelphia, PA","New York, NY",94
+"Philadelphia, PA","San Francisco, CA",2899
+"Philadelphia, PA","Atlanta, GA",779
+"Philadelphia, PA","Brooklyn, NY",98
+"Philadelphia, PA","Charlotte, NC",540
+"Philadelphia, PA","Chicago, IL",760
+"Philadelphia, PA","Cleveland, OH",431
+"Philadelphia, PA","Dallas, TX",1467
+"Philadelphia, PA","Denver, CO",1727
+"Philadelphia, PA","Detroit, MI",584
+"Philadelphia, PA","Houston, TX",1547
+"Philadelphia, PA","Indianapolis, IN",643
+"Philadelphia, PA","Memphis, TN",1015
+"Philadelphia, PA","Oklahoma City, OK",1383
+"Philadelphia, PA","Milwaukee, WI",850
+"Philadelphia, PA","Minneapolis, MN",1167
+"Philadelphia, PA","New Orleans, LA",1225
+"Philadelphia, PA","Orlando, FL",987
+"Philadelphia, PA","Philadelphia, PA",2
+"Philadelphia, PA","Phoenix, AZ",2342
+"Philadelphia, PA","Portland, OR",2864
+"Philadelphia, PA","Sacramento, CA",2814
+"Philadelphia, PA","San Antonio, TX",1742
+"Philadelphia, PA","Toronto, Ontario",498
+"Philadelphia, PA","Salt Lake City, UT",2141
+"Philadelphia, PA","Washington, D.C",139
+"Phoenix, AZ","Miami, FL",2362
+"Phoenix, AZ","Boston, MA",2648
+"Phoenix, AZ","Los Angles, CA",372
+"Phoenix, AZ","New York, NY",2408
+"Phoenix, AZ","San Francisco, CA",752
+"Phoenix, AZ","Atlanta, GA",1806
+"Phoenix, AZ","Brooklyn, NY",2430
+"Phoenix, AZ","Charlotte, NC",2044
+"Phoenix, AZ","Chicago, IL",1753
+"Phoenix, AZ","Cleveland, OH",2015
+"Phoenix, AZ","Dallas, TX",1065
+"Phoenix, AZ","Denver, CO",821
+"Phoenix, AZ","Detroit, MI",1985
+"Phoenix, AZ","Houston, TX",1176
+"Phoenix, AZ","Indianapolis, IN",1698
+"Phoenix, AZ","Memphis, TN",1425
+"Phoenix, AZ","Oklahoma City, OK",959
+"Phoenix, AZ","Milwaukee, WI",1829
+"Phoenix, AZ","Minneapolis, MN",1644
+"Phoenix, AZ","New Orleans, LA",1522
+"Phoenix, AZ","Orlando, FL",2138
+"Phoenix, AZ","Philadelphia, PA",2341
+"Phoenix, AZ","Phoenix, AZ",2
+"Phoenix, AZ","Portland, OR",1333
+"Phoenix, AZ","Sacramento, CA",755
+"Phoenix, AZ","San Antonio, TX",981
+"Phoenix, AZ","Toronto, Ontario",2214
+"Phoenix, AZ","Salt Lake City, UT",663
+"Phoenix, AZ","Washington, D.C",2301
+"Portland, OR","Miami, FL",3259
+"Portland, OR","Boston, MA",3088
+"Portland, OR","Los Angles, CA",964
+"Portland, OR","New York, NY",2895
+"Portland, OR","San Francisco, CA",635
+"Portland, OR","Atlanta, GA",2597
+"Portland, OR","Brooklyn, NY",2899
+"Portland, OR","Charlotte, NC",2758
+"Portland, OR","Chicago, IL",2121
+"Portland, OR","Cleveland, OH",2450
+"Portland, OR","Dallas, TX",2018
+"Portland, OR","Denver, CO",1241
+"Portland, OR","Detroit, MI",2386
+"Portland, OR","Houston, TX",2251
+"Portland, OR","Indianapolis, IN",2247
+"Portland, OR","Memphis, TN",2249
+"Portland, OR","Oklahoma City, OK",1909
+"Portland, OR","Milwaukee, WI",2064
+"Portland, OR","Minneapolis, MN",1728
+"Portland, OR","New Orleans, LA",2507
+"Portland, OR","Orlando, FL",3036
+"Portland, OR","Philadelphia, PA",2864
+"Portland, OR","Phoenix, AZ",1271
+"Portland, OR","Portland, OR",2
+"Portland, OR","Sacramento, CA",579
+"Portland, OR","San Antonio, TX",2077
+"Portland, OR","Toronto, Ontario",2624
+"Portland, OR","Salt Lake City, UT",766
+"Portland, OR","Washington, D.C",2806
+"Sacramento, CA","Miami, FL",3036
+"Sacramento, CA","Boston, MA",3042
+"Sacramento, CA","Los Angles, CA",386
+"Sacramento, CA","New York, NY",2848
+"Sacramento, CA","San Francisco, CA",88
+"Sacramento, CA","Atlanta, GA",2467
+"Sacramento, CA","Brooklyn, NY",2853
+"Sacramento, CA","Charlotte, NC",2705
+"Sacramento, CA","Chicago, IL",2075
+"Sacramento, CA","Cleveland, OH",2404
+"Sacramento, CA","Dallas, TX",1727
+"Sacramento, CA","Denver, CO",1120
+"Sacramento, CA","Detroit, MI",2340
+"Sacramento, CA","Houston, TX",1930
+"Sacramento, CA","Indianapolis, IN",2201
+"Sacramento, CA","Memphis, TN",2085
+"Sacramento, CA","Oklahoma City, OK",1620
+"Sacramento, CA","Milwaukee, WI",2116
+"Sacramento, CA","Minneapolis, MN",1920
+"Sacramento, CA","New Orleans, LA",2216
+"Sacramento, CA","Orlando, FL",2813
+"Sacramento, CA","Philadelphia, PA",2818
+"Sacramento, CA","Phoenix, AZ",755
+"Sacramento, CA","Portland, OR",579
+"Sacramento, CA","Sacramento, CA",2
+"Sacramento, CA","San Antonio, TX",1734
+"Sacramento, CA","Toronto, Ontario",2578
+"Sacramento, CA","Salt Lake City, UT",678
+"Sacramento, CA","Washington, D.C",2760
+"San Antonio, TX","Miami, FL",1382
+"San Antonio, TX","Boston, MA",2033
+"San Antonio, TX","Los Angles, CA",1353
+"San Antonio, TX","New York, NY",1821
+"San Antonio, TX","San Francisco, CA",1733
+"San Antonio, TX","Atlanta, GA",988
+"San Antonio, TX","Brooklyn, NY",1830
+"San Antonio, TX","Charlotte, NC",1232
+"San Antonio, TX","Chicago, IL",1241
+"San Antonio, TX","Cleveland, OH",1455
+"San Antonio, TX","Dallas, TX",273
+"San Antonio, TX","Denver, CO",921
+"San Antonio, TX","Detroit, MI",1458
+"San Antonio, TX","Houston, TX",197
+"San Antonio, TX","Indianapolis, IN",1172
+"San Antonio, TX","Memphis, TN",725
+"San Antonio, TX","Oklahoma City, OK",466
+"San Antonio, TX","Milwaukee, WI",1275
+"San Antonio, TX","Minneapolis, MN",1251
+"San Antonio, TX","New Orleans, LA",543
+"San Antonio, TX","Orlando, FL",1158
+"San Antonio, TX","Philadelphia, PA",1740
+"San Antonio, TX","Phoenix, AZ",981
+"San Antonio, TX","Portland, OR",2077
+"San Antonio, TX","Sacramento, CA",1735
+"San Antonio, TX","San Antonio, TX",2
+"San Antonio, TX","Toronto, Ontario",1687
+"San Antonio, TX","Salt Lake City, UT",1312
+"San Antonio, TX","Washington, D.C",1601
+"Toronto, Ontario","Miami, FL",1494
+"Toronto, Ontario","Boston, MA",553
+"Toronto, Ontario","Los Angles, CA",2533
+"Toronto, Ontario","New York, NY",494
+"Toronto, Ontario","San Francisco, CA",2674
+"Toronto, Ontario","Atlanta, GA",956
+"Toronto, Ontario","Brooklyn, NY",498
+"Toronto, Ontario","Charlotte, NC",763
+"Toronto, Ontario","Chicago, IL",523
+"Toronto, Ontario","Cleveland, OH",293
+"Toronto, Ontario","Dallas, TX",1424
+"Toronto, Ontario","Denver, CO",1514
+"Toronto, Ontario","Detroit, MI",233
+"Toronto, Ontario","Houston, TX",1539
+"Toronto, Ontario","Indianapolis, IN",519
+"Toronto, Ontario","Memphis, TN",978
+"Toronto, Ontario","Oklahoma City, OK",1263
+"Toronto, Ontario","Milwaukee, WI",614
+"Toronto, Ontario","Minneapolis, MN",933
+"Toronto, Ontario","New Orleans, LA",1304
+"Toronto, Ontario","Orlando, FL",1289
+"Toronto, Ontario","Philadelphia, PA",501
+"Toronto, Ontario","Phoenix, AZ",2228
+"Toronto, Ontario","Portland, OR",2639
+"Toronto, Ontario","Sacramento, CA",2588
+"Toronto, Ontario","San Antonio, TX",1698
+"Toronto, Ontario","Toronto, Ontario",2
+"Toronto, Ontario","Salt Lake City, UT",1911
+"Toronto, Ontario","Washington, D.C",486
+"Salt Lake City, UT","Miami, FL",2538
+"Salt Lake City, UT","Boston, MA",2367
+"Salt Lake City, UT","Los Angles, CA",689
+"Salt Lake City, UT","New York, NY",2173
+"Salt Lake City, UT","San Francisco, CA",764
+"Salt Lake City, UT","Atlanta, GA",1875
+"Salt Lake City, UT","Brooklyn, NY",2177
+"Salt Lake City, UT","Charlotte, NC",2036
+"Salt Lake City, UT","Chicago, IL",1399
+"Salt Lake City, UT","Cleveland, OH",1728
+"Salt Lake City, UT","Dallas, TX",1243
+"Salt Lake City, UT","Denver, CO",519
+"Salt Lake City, UT","Detroit, MI",1664
+"Salt Lake City, UT","Houston, TX",1477
+"Salt Lake City, UT","Indianapolis, IN",1525
+"Salt Lake City, UT","Memphis, TN",1527
+"Salt Lake City, UT","Oklahoma City, OK",1187
+"Salt Lake City, UT","Milwaukee, WI",1440
+"Salt Lake City, UT","Minneapolis, MN",1244
+"Salt Lake City, UT","New Orleans, LA",1732
+"Salt Lake City, UT","Orlando, FL",2314
+"Salt Lake City, UT","Philadelphia, PA",2142
+"Salt Lake City, UT","Phoenix, AZ",663
+"Salt Lake City, UT","Portland, OR",767
+"Salt Lake City, UT","Sacramento, CA",679
+"Salt Lake City, UT","San Antonio, TX",1313
+"Salt Lake City, UT","Toronto, Ontario",1902
+"Salt Lake City, UT","Salt Lake City, UT",2
+"Salt Lake City, UT","Washington, D.C",2084
+"Washington, D.C","Miami, FL",1052
+"Washington, D.C","Boston, MA",441
+"Washington, D.C","Los Angles, CA",2669
+"Washington, D.C","New York, NY",228
+"Washington, D.C","San Francisco, CA",2840
+"Washington, D.C","Atlanta, GA",641
+"Washington, D.C","Brooklyn, NY",233
+"Washington, D.C","Charlotte, NC",400
+"Washington, D.C","Chicago, IL",700
+"Washington, D.C","Cleveland, OH",371
+"Washington, D.C","Dallas, TX",1328
+"Washington, D.C","Denver, CO",1660
+"Washington, D.C","Detroit, MI",524
+"Washington, D.C","Houston, TX",1408
+"Washington, D.C","Indianapolis, IN",576
+"Washington, D.C","Memphis, TN",876
+"Washington, D.C","Oklahoma City, OK",1342
+"Washington, D.C","Milwaukee, WI",790
+"Washington, D.C","Minneapolis, MN",1107
+"Washington, D.C","New Orleans, LA",1086
+"Washington, D.C","Orlando, FL",847
+"Washington, D.C","Philadelphia, PA",142
+"Washington, D.C","Phoenix, AZ",2300
+"Washington, D.C","Portland, OR",2804
+"Washington, D.C","Sacramento, CA",2754
+"Washington, D.C","San Antonio, TX",1603
+"Washington, D.C","Toronto, Ontario",481
+"Washington, D.C","Salt Lake City, UT",2081
+"Washington, D.C","Washington, D.C",2
